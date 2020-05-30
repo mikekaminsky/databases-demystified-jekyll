@@ -7,5 +7,11 @@
 
 $primary-color: #047ffb;
 
+$sans-serif: "Oswald", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
+$header-font-family : $sans-serif;
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
