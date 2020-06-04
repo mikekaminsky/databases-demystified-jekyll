@@ -3,7 +3,7 @@ layout: single
 clases: wide
 author_profile: false
 share: true
-row_1:
+gallery:
   - url: https://www.youtube.com/embed/exOrpvIsMys
     image_path: /assets/images/episode_thumbnails/e0.png
     alt: "Episode 0: Databases and SQL"
@@ -16,7 +16,6 @@ row_1:
     title: "Episode 1: Analytical vs. Transactional"
     btn_label: "Watch now"
     btn_class: "btn--inverse"
-row_2:
   - url: https://www.youtube.com/embed/XNrsRVMfj1c
     image_path: /assets/images/episode_thumbnails/e2.png
     alt: "E2: Row vs. Column Store"
@@ -29,7 +28,6 @@ row_2:
     title: "E3: Transactions Part 1"
     btn_label: "Watch now"
     btn_class: "btn--inverse"
-row_3:
   - url: https://www.youtube.com/embed/ACL-UI0QxIg
     image_path: /assets/images/episode_thumbnails/e4.png
     alt: "E4: Transactions Part 2"
@@ -46,10 +44,6 @@ row_3:
 
 
 <div style="text-align:center;">
-{% include feature_row id="row_1" %}
-
-{% include feature_row id ="row_2" %}
-
-{% include feature_row id ="row_3" %}
+{% include gallery layout="half"%}
 </div>
 
