@@ -44,6 +44,5 @@ gallery:
 
 
 <div style="text-align:center;">
-{% include gallery layout="half"%}
+{% include gallery layout="full" %}
 </div>
-
