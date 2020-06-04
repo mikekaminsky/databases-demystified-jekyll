@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Databases Demystified"
 title_separator          : "-"
-subtitle                 : "Go from zero to sixty with databases in bite-sized lessons"
+subtitle                 : "Taking the science out of learning about databases."
 description              : "Home of the FREE youtube course on databases."
 baseurl                  : "" # the subpath of your site, e.g. /blog
 url                      : "databasesdemystified.com" # the base hostname & protocol for your site, e.g. http://example.com

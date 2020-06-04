@@ -7,10 +7,31 @@
 
 $primary-color: #047ffb;
 
-$sans-serif: "Oswald", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Verdana", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 
-$header-font-family : $sans-serif;
+$sans-serif-with-oswald: "Oswald", $sans-serif;
+
+$header-font-family: $sans-serif-with-oswald;
+
+.page__content p {
+  font-size: 15px !important;
+}
+
+.site-title {
+  font-family: $header-font-family;
+}
+
+.masthead__menu-item {
+  font-family: $header-font-family;
+}
+
+.site-subtitle {
+  font-family: $sans-serif;
+  font-size: 11px !important;
+}
+
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
