@@ -22,9 +22,14 @@ $header-font-family: $sans-serif-with-oswald;
   display: block;
 }
 
+.gallery-anchor  {
+  text-decoration: none;
+}
+
 .img-title  {
   display: block;
   margin: 1em 0 2em;
+  color: #000;
 }
 
 .page__content p {
