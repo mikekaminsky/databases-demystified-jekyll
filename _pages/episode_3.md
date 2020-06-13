@@ -9,5 +9,5 @@ title: "E3: Transactions Part 1"
 ---
 
 * What is a transaction and why is it important?
-* What does “begin”, “commit”, and “rollback” mean?
+* What do “begin”, “commit”, and “rollback” mean?
 * Learn the components of ACID transaction: Atomic, Consistent, Isolated, and Durable

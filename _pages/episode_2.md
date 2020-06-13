@@ -9,6 +9,6 @@ title: "E2: Row vs. Column Store"
 
 * How databases save and read-data from disk
 * What a memory “block” is and how that impacts how databases work
-* What does “row store” and “column store” even mean?
+* What do “row store” and “column store” even mean?
 * What are the trade-offs when using row-stores and column-stores
 * What common database paradigms use row-stores and column-stores
