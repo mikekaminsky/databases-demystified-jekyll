@@ -20,9 +20,14 @@ $header-font-family: $sans-serif-with-oswald;
 
 .img-block  {
   display: block;
+  max-width: 700px;
 }
 
 .gallery-anchor  {
+  text-decoration: none;
+}
+
+a {
   text-decoration: none;
 }
 
@@ -32,7 +37,7 @@ $header-font-family: $sans-serif-with-oswald;
   color: #000;
 }
 
-.page__content p {
+.page__content p, li, dl {
   font-size: 15px !important;
 }
 
@@ -48,9 +53,6 @@ $header-font-family: $sans-serif-with-oswald;
   font-family: $sans-serif;
   font-size: 11px !important;
 }
-
-
-
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

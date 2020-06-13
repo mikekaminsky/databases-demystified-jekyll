@@ -4,42 +4,34 @@ clases: wide
 author_profile: false
 share: true
 gallery:
-  - url: https://www.youtube.com/watch?v=exOrpvIsMys
+  - url: /episodes/databases_and_sql.html
     image_path: /assets/images/episode_thumbnails/e0.png
-    alt: "Episode 0: Databases and SQL"
-    title: "Episode 0: Databases and SQL"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
-  - url: https://www.youtube.com/watch?v=pLoBQMnwLZc
+    alt: "E0: Databases and SQL"
+    title: "E0: Databases and SQL"
+  - url: /episodes/analytical_vs_transactional.html
     image_path: /assets/images/episode_thumbnails/e1.png
-    alt: "Episode 1: Analytical vs. Transactional"
-    title: "Episode 1: Analytical vs. Transactional"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
-  - url: https://www.youtube.com/watch?v=XNrsRVMfj1c
+    alt: "E1: Analytical vs. Transactional"
+    title: "E1: Analytical vs. Transactional"
+  - url: /episodes/row_vs_column.html
     image_path: /assets/images/episode_thumbnails/e2.png
     alt: "E2: Row vs. Column Store"
     title: "E2: Row vs. Column Store"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
-  - url: https://www.youtube.com/watch?v=B8r4YZ248l8
+  - url: /episodes/transactions_p1.html
     image_path: /assets/images/episode_thumbnails/e3.png
     alt: "E3: Transactions Part 1"
     title: "E3: Transactions Part 1"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
-  - url: https://www.youtube.com/watch?v=ACL-UI0QxIg
+  - url: /episodes/transactions_p2.html
     image_path: /assets/images/episode_thumbnails/e4.png
     alt: "E4: Transactions Part 2"
     title: "E4: Transactions Part 2"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
-  - url: https://www.youtube.com/watch?v=J-sj3GUrq9k
+  - url: /episodes/distributed_p1.html
     image_path: /assets/images/episode_thumbnails/e5.png
     alt: "E5: Distributed Databases Part 1"
     title: "E5: Distributed Databases Part 1"
-    btn_label: "Watch now"
-    btn_class: "btn--inverse"
+  - url: /episodes/distributed_p2.html
+    image_path: /assets/images/episode_thumbnails/e6.png
+    alt: "E6: Distributed Databases Part 2"
+    title: "E6: Distributed Databases Part 2"
 ---
 
 
