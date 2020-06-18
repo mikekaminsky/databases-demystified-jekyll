@@ -32,6 +32,10 @@ gallery:
     image_path: /assets/images/episode_thumbnails/e6.png
     alt: "E6: Distributed Databases Part 2"
     title: "E6: Distributed Databases Part 2"
+  - url: /episodes/distributed_p3.html
+    image_path: /assets/images/episode_thumbnails/e7.png
+    alt: "E7: Distributed Databases Part 3"
+    title: "E7: Distributed Databases Part 3"
 ---
 
 
