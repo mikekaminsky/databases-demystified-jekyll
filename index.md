@@ -36,6 +36,10 @@ gallery:
     image_path: /assets/images/episode_thumbnails/e7.png
     alt: "E7: Distributed Databases Part 3"
     title: "E7: Distributed Databases Part 3"
+  - url: /episodes/indexes.html
+    image_path: /assets/images/episode_thumbnails/e8.png
+    alt: "E8: Indexes"
+    title: "E8: Indexes"
 ---
 
 
